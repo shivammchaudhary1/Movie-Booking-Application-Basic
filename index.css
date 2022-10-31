@@ -1,0 +1,28 @@
+body {
+  width: 60%;
+  margin: auto;
+}
+#intro,
+h2 {
+  text-align: center;
+}
+
+#wallet {
+  text-align: right;
+}
+
+#in {
+  width: 30%;
+
+  margin: auto;
+  display: grid;
+  text-align: center;
+  align-items: center;
+}
+#add_to_wallet {
+  margin-top: 5px;
+}
+
+#book_movies {
+  margin-top: 15px;
+}
