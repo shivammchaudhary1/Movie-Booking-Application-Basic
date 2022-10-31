@@ -1,0 +1,14 @@
+#in {
+  border: 1px solid black;
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+#wallet {
+  width: 80%;
+  text-align: right;
+}
+#movie {
+  text-align: center;
+  margin-top: 50px;
+}
